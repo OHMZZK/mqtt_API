@@ -24,7 +24,7 @@ const topic8 = "/energy/house_power/h8"
 const topic9 = "/energy/house_power/h9"
 const topic10 = "/energy/house_power/h10"
 
-const topic = "./topicFile.js"
+// const topic = "./topicFile.js"
 
 // const topic11 = "/energy/house_power_h11"
 // const topic12 = "/energy/house_power_h12"
